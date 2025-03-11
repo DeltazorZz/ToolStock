@@ -1,52 +1,56 @@
-# Prerequisites
-*.d
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
 
-# Precompiled Headers
-*.gch
-*.pch
+# ASP.NET
+# User-specific files
+project.lock.json
+project.fragment.lock.json
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# .NET Core
+project.json
+project.lock.json
+artifacts/
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# ASP.NET build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]eploy/
+[Dd]eployable/
+[Dd]ebug/
+[Dd]eploy/
+bin/
+obj/
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# IIS Express
+_IISExpress/
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+# VS for Mac
+.vscode/
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Npm packages (if applicable)
+node_modules/
+
+# JetBrains Rider
+.idea/
+
+# Web log files
+*.log
+
+# Generated files
+*.csproj.user
+*.suo
+*.user
