@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vetka\\source\\repos\\ToolStock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F5CBDA-75CD-4A68-B187-8BB08375FCBB}|ToolStock.Logic\\ToolStock.Logic.csproj|c:\\users\\vetka\\source\\repos\\toolstock\\toolstock.logic\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F5CBDA-75CD-4A68-B187-8BB08375FCBB}|ToolStock.Logic\\ToolStock.Logic.csproj|solutionrelative:toolstock.logic\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D9E333-966C-4538-B196-B01D19C25110}|ToolStock.Data\\ToolStock.Data.csproj|c:\\users\\vetka\\source\\repos\\toolstock\\toolstock.data\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D9E333-966C-4538-B196-B01D19C25110}|ToolStock.Data\\ToolStock.Data.csproj|solutionrelative:toolstock.data\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB11DF85-6363-4081-B592-75EE13FBF2B4}|ToolStock.API\\ToolStock.API.csproj|c:\\users\\vetka\\source\\repos\\toolstock\\toolstock.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB11DF85-6363-4081-B592-75EE13FBF2B4}|ToolStock.API\\ToolStock.API.csproj|solutionrelative:toolstock.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F5CBDA-75CD-4A68-B187-8BB08375FCBB}|ToolStock.Logic\\ToolStock.Logic.csproj|c:\\users\\vetka\\source\\repos\\toolstock\\toolstock.logic\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F5CBDA-75CD-4A68-B187-8BB08375FCBB}|ToolStock.Logic\\ToolStock.Logic.csproj|solutionrelative:toolstock.logic\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB11DF85-6363-4081-B592-75EE13FBF2B4}|ToolStock.API\\ToolStock.API.csproj|c:\\users\\vetka\\source\\repos\\toolstock\\toolstock.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB11DF85-6363-4081-B592-75EE13FBF2B4}|ToolStock.API\\ToolStock.API.csproj|solutionrelative:toolstock.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vetka\\source\\repos\\ToolStock\\ToolStock.Logic\\ViewModels\\Get_RequestViews\\BacklogViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ToolStock.Logic\\ViewModels\\Get_RequestViews\\BacklogViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 720,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vetka\\source\\repos\\ToolStock\\ToolStock.Logic\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "ToolStock.Logic\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\vetka\\source\\repos\\ToolStock\\ToolStock.Logic\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "ToolStock.Logic\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:37:17.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\vetka\\source\\repos\\ToolStock\\ToolStock.Data\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "ToolStock.Data\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\vetka\\source\\repos\\ToolStock\\ToolStock.Data\\Models\\Project.cs",
+              "RelativeToolTip": "ToolStock.Data\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:43:34.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\vetka\\source\\repos\\ToolStock\\ToolStock.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ToolStock.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\vetka\\source\\repos\\ToolStock\\ToolStock.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ToolStock.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:25:48.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\vetka\\source\\repos\\ToolStock\\ToolStock.API\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "ToolStock.API\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\vetka\\source\\repos\\ToolStock\\ToolStock.API\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "ToolStock.API\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAmwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:55:04.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BacklogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vetka\\source\\repos\\ToolStock\\ToolStock.Logic\\ViewModels\\Get_RequestViews\\BacklogViewModel.cs",
+              "RelativeDocumentMoniker": "ToolStock.Logic\\ViewModels\\Get_RequestViews\\BacklogViewModel.cs",
+              "ToolTip": "C:\\Users\\vetka\\source\\repos\\ToolStock\\ToolStock.Logic\\ViewModels\\Get_RequestViews\\BacklogViewModel.cs",
+              "RelativeToolTip": "ToolStock.Logic\\ViewModels\\Get_RequestViews\\BacklogViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:51:03.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\vetka\\source\\repos\\ToolStock\\ToolStock.Logic\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ToolStock.Logic\\Service\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\vetka\\source\\repos\\ToolStock\\ToolStock.Logic\\Service\\CategoryService.cs",
+              "RelativeToolTip": "ToolStock.Logic\\Service\\CategoryService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:49:58.197Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 704,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

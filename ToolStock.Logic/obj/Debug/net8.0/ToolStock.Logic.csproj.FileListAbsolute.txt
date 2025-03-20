@@ -1,0 +1,17 @@
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\bin\Debug\net8.0\ToolStock.Logic.deps.json
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\bin\Debug\net8.0\ToolStock.Logic.runtimeconfig.json
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\bin\Debug\net8.0\ToolStock.Logic.dll
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\bin\Debug\net8.0\ToolStock.Logic.pdb
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\obj\Debug\net8.0\ToolStock.Logic.csproj.AssemblyReference.cache
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\obj\Debug\net8.0\ToolStock.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\obj\Debug\net8.0\ToolStock.Logic.AssemblyInfoInputs.cache
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\obj\Debug\net8.0\ToolStock.Logic.AssemblyInfo.cs
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\obj\Debug\net8.0\ToolStock.Logic.csproj.CoreCompileInputs.cache
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\obj\Debug\net8.0\ToolStock.Logic.dll
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\obj\Debug\net8.0\refint\ToolStock.Logic.dll
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\obj\Debug\net8.0\ToolStock.Logic.pdb
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\obj\Debug\net8.0\ToolStock.Logic.genruntimeconfig.cache
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\obj\Debug\net8.0\ref\ToolStock.Logic.dll
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\bin\Debug\net8.0\ToolStock.Data.dll
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\bin\Debug\net8.0\ToolStock.Data.pdb
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\obj\Debug\net8.0\ToolStoc.0ADC5073.Up2Date
