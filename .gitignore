@@ -1,0 +1,114 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio cache/options directory
+.vs/
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# Entity Framework migrations
+Migrations/
+
+# Publish output
+*.publish.xml
+*.azurePubxml
+*.pubxml
+*.publishproj
+
+# Rider and JetBrains files
+.idea/
+*.sln.iml
+
+# Local History for Visual Studio Code
+.history/
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+coverage*.json
+coverage*.xml
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Others
+*.cache
+*.pidb
+*.svclog
+*.tlog
+*.dbmdl
+*.jfm
+*.pfx
+*.publishsettings
+
+# Layer-specific exclusions
+ToolStock.API/*.csproj.user
+ToolStock.Data/*.csproj.user
+ToolStock.Logic/*.csproj.user
+
+# Exclude auto-generated files in obj folders
+**/obj/**/*.AssemblyInfo.cs
+**/obj/**/*.AssemblyAttributes.cs
+**/obj/**/*.assets.json
+**/obj/**/*.nuget.*
+
+# Static web assets
+**/obj/**/*.staticwebassets.*
+**/obj/**/*.scopedcss.*
+
+# Exclude debug and runtime files
+**/bin/**/*.pdb
+**/bin/**/*.exe
+**/bin/**/*.runtimeconfig.json
+**/bin/**/*.deps.json
+
+# Exclude generated Razor files
+**/obj/**/*.GeneratedMSBuildEditorConfig.editorconfig
+**/obj/**/*.RazorTargetAssemblyInfo.cs
+
+# Exclude scoped CSS files
+**/obj/**/*.styles.css
