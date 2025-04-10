@@ -112,3 +112,8 @@ ToolStock.Logic/*.csproj.user
 
 # Exclude scoped CSS files
 **/obj/**/*.styles.css
+/.vs/ToolStock/CopilotIndices/17.12.38.29086/SemanticSymbols.db-shm
+/ToolStock.API/obj/Debug/net8.0/ToolStock.API.AssemblyInfo.cs
+/ToolStock.API/obj/Debug/net8.0/ToolStock.API.AssemblyInfoInputs.cache
+/ToolStock.Logic/obj/Debug/net8.0/ToolStock.Logic.AssemblyInfo.cs
+/ToolStock.Logic/obj/Debug/net8.0/ToolStock.Logic.AssemblyInfoInputs.cache
