@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToolStock.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b67293de7ea571dbaa34d531091ebbc741b6a120")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToolStock.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToolStock.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

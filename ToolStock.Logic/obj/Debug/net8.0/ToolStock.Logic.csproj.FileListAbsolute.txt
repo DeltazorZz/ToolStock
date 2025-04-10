@@ -15,3 +15,4 @@ C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\obj\Debug\net8.0\ref\ToolS
 C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\bin\Debug\net8.0\ToolStock.Data.dll
 C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\bin\Debug\net8.0\ToolStock.Data.pdb
 C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\obj\Debug\net8.0\ToolStoc.0ADC5073.Up2Date
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Logic\obj\Debug\net8.0\ToolStock.Logic.sourcelink.json

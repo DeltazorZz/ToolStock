@@ -290,3 +290,5 @@ C:\Users\vetka\source\repos\ToolStock\ToolStock.API\obj\Debug\net8.0\refint\Tool
 C:\Users\vetka\source\repos\ToolStock\ToolStock.API\obj\Debug\net8.0\ToolStock.API.pdb
 C:\Users\vetka\source\repos\ToolStock\ToolStock.API\obj\Debug\net8.0\ToolStock.API.genruntimeconfig.cache
 C:\Users\vetka\source\repos\ToolStock\ToolStock.API\obj\Debug\net8.0\ref\ToolStock.API.dll
+C:\Users\vetka\source\repos\ToolStock\ToolStock.API\obj\Debug\net8.0\ToolStock.API.sourcelink.json
+C:\Users\vetka\source\repos\ToolStock\ToolStock.API\bin\Debug\net8.0\BCrypt.Net.dll

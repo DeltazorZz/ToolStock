@@ -26,3 +26,4 @@ C:\Users\vetka\source\repos\ToolStock\ToolStock.Data\obj\Debug\net8.0\refint\Too
 C:\Users\vetka\source\repos\ToolStock\ToolStock.Data\obj\Debug\net8.0\ToolStock.Data.pdb
 C:\Users\vetka\source\repos\ToolStock\ToolStock.Data\obj\Debug\net8.0\ToolStock.Data.genruntimeconfig.cache
 C:\Users\vetka\source\repos\ToolStock\ToolStock.Data\obj\Debug\net8.0\ref\ToolStock.Data.dll
+C:\Users\vetka\source\repos\ToolStock\ToolStock.Data\obj\Debug\net8.0\ToolStock.Data.sourcelink.json

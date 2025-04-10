@@ -12,6 +12,6 @@ namespace ToolStock.Data.Models
         public string CompanyName { get; set; }
         public string CompanyAddress { get; set; }
         public string CompanyTaxIdentifier { get; set; }
-        public ICollection<Project> Projects { get; set; }
+        //public ICollection<Project> Projects { get; set; }
     }
 }
